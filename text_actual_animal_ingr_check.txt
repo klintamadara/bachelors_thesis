@@ -1,0 +1,201 @@
+ID;nr total;nr AB;list
+n1;46;8;piens,sviests,sausās siera sūkalas,saldais krējums,sausais vājpiens,sastāvdaļas piena šokolādei,pilnpiena pulveris,piena tauki
+n2;45;3;sviesta aromatizētājs,sūkalu pulveris,sviesta
+n3;34;2;vājpiena pulveris,sūkalu pulveris
+n4;28;6;atjaunots vājpiens,vājpiena pulveris,sviesta eļļa,sūkalu sausna,piens,ar pienu
+n5;35;12;vājpiens,krējums,no piena,vājpiena pulveris,saldināts kondensētais vājpiens,piena olbaltumvielas,piena tauki,laktoze,sūkalu permeāts,no piena,nātrija kazeināts,no piena
+n6;44;8;piena šokolāde,pilnpiena pulveris,piena tauki,saldais krējums,saldais krējums,vājpiena pulveris,sūkalu pulveris,piena tauki
+n7;25;6;cāļa fileja,mehāniski atdalīta cāļa gaļa,olu baltuma masa,cāļu ādas,krējums,sviesta pulveris
+n8;37;1;satur olas
+n9;22;6;sausais piens,piena tauki,sausās sūkalas,sviests,piens,olu pulveris
+n10;15;1;piens
+n11;30;4;cāļa gaļa,vistas āda,piena olbaltumvielas,satur laktozi
+n12;34;4;cāļa krūtiņas fileja,cāļu ādas,siers,satur pienu
+n13;58;6;cepta vistas gaļa,vistas gaļa,olu dzeltenuma pulveris,siers,piens,siera ferments
+n14;4;1;pasterizēts govs piens
+n15;21;2;biezpiens,sviests
+n16;33;1;sausais piens
+n17;23;6;sūkalu pulveris,no piena,siera pulveris,siera pulveris,no kura 50% ir baltais čedaras siers,satur pienu
+n18;23;6;sūkalu pulveris,no piena,siera pulveris,siera pulveris,no kura 50% ir baltais čedaras siers,satur pienu
+n19;33;5;sūkalu pulveris,no piena,piena pulveris,piena olbaltumvielas,siera pulveris
+n20;21;1;piena olbaltumvielas
+n21;16;2;iebiezināts piens ar cukuru,piens
+n22;20;4;rivētā mocarella,piens,rivēts Ementāl siers,piens
+n23;12;2;tīrkutūra,piens
+n24;36;5;piena šokolāde,pilnpiena pulveris,pilnpiena pulveris,vājpiena pulveris,olu pulveris
+n25;32;4;piens,baktēriju tīrkultūra,olu masa,sūkalu pulveris
+n26;26;2;olas,pilnpiena pulveris
+n27;54;1;piena olbaltumvielas
+n28;34;6;sviesta,siers,govs piens,siera ieraugs,renīns,olu masa
+n29;24;5;liellopu gaļa,sausais liellopu gaļas buljons,liellopu buljons,liellopu tauki,liellopu gaļas pulveris
+n30;24;5;liellopu gaļa,sausais liellopu gaļas buljons,liellopu buljons,liellopu tauki,liellopu gaļas pulveris
+n31;29;6;cūkgaļa,žāvēta desa,liellopu gaļa,cūkgaļa,cūku tauki,sausais liellopu gaļas buljons
+n32;5;2;kūpinātas reņģes,Clupea harengus membras
+n33;3;1;tuncis
+n34;21;3;jogurts,krējums,piena olbaltumvielas
+n35;15;3;sviests saldkrējuma,piens,kefīrs
+n36;19;2;vājpiena pulveris,sūkalu izstrādājums
+n37;5;1;saldais krējums
+n38;5;1;saldais krējums
+n39;10;1;medus
+n40;28;2;vājpiena pulveris,olu dzeltenuma masa
+n41;28;2;sūkalu pulveris,olu dzeltenuma pulveris
+n42;40;4;piena pulveris,siera pulveris,siers,sviests
+n43;25;2;medus,olu pulveris
+n44;21;1;olu dzeltenums
+n45;24;1;olu dzeltenums
+n46;18;2;sūkalu olbaltumvielas,piena
+n47;11;1;olu dzeltenums
+n48;40;1;olu dzeltenuma pulveris
+n49;17;2;cūkgaļa kūpināta,cūkgaļa
+n50;17;2;cūkgaļa kūpināta,cūkgaļa
+n51;17;2;cūkgaļa kūpināta,cūkgaļa
+n52;16;1;vājpiena pulveris
+n53;25;6;vājpiena pulveris,siers,siera aromatizētājs,sūkalu pulveri,siera pulveri,olu dzeltenuma puveris
+n54;26;1;olu dzeltenums
+n55;20;2;piena pulveris,olu dzeltenuma pulveris
+n56;27;3;vājpiena pulveris,olu dzeltenums,satur piena sūkalu pulveri
+n57;23;1;olu dzeltenuma masa
+n58;27;6;siera pulveris,siers,piena olbaltumvielas,paniņu pulveris,sūkalu pulveris,olu dzeltenuma pulveris
+n59;19;1;sausais vistas buljons
+n60;11;1;olu dzeltenums
+n61;12;1;medus
+n62;42;2;laktoze,piens
+n63;29;1;piena obaltumvielas
+n64;15;2;liellopa gaļa,cūkgaļa
+n65;12;7;piens,krējums,siera pulveris,no cietā siera,zilā siera,Čedaras,mocarella
+n66;21;2;olu dzeltenuma pulveris,piena pulveris
+n67;10;2;siera pulveris,no piena
+n68;11;2;vājpiena pulveris,sūkalu pulveris
+n69;19;3;satur piena produktus,saldo sūkalu pulveris,siera pulveris
+n70;53;2;medū grauzdēti zemesrieksti,medus
+n71;26;6;vājpiena pulveris,sūkalu pulveris,no PIENA,laktoze,no PIENA,piena tauki
+n72;24;3;vājpiena pulveris,laktoze,no PIENA
+n73;21;2;saldo sūkalu pulveris,no piena
+n74;9;1;pilnpiena pulveris
+n75;9;1;kefīrs
+n76;9;1;kefīrs
+n77;12;2;sviests saldkrējuma,kefīrs 
+n78;16;2;sviests saldkrējuma,kefīrs 
+n79;31;3;saldināts iebiezināts piens,sūkalu pulveris,olu pulveris
+n80;22;4;olas,vājpiena pulveris,pilnpiena pulveris,olu baltuma pulveris
+n81;8;2;sausais vājpiens,olu pulveris
+n82;22;3;salds sūkalu,piens,piena cukurs
+n83;20;2;olu pulveris,sūkalu pulveris
+n84;12;2;olu baltuma pulveris,albumīns
+n85;17;1;piena olbaltumvielas
+n86;25;8;krējuma pulveris,no piena,siera pulveris,no piena,vājpiena pulveris,ar pienu,sūkalu pulveris,no piena
+n87;21;3;olas,mājputnu tauki,kaltēta vistas gaļa
+n88;24;1;kūpināti cūku tauki
+n89;25;3;pilnpiena pulveris,vājpiena puveris,ar pienu
+n90;13;5;pilnpiena pulveris,sūkalu pulveris,no piena,vājpiena pulveris,piena tauki
+n91;11;4;pilnpiena pulveris,sūkalu pulveris,no piena,piena tauki
+n92;8;1;piena tauki
+n93;17;4;piena šokolāde,pilnpiena ulveris,vājpiena pulveris,bezūdens piena tauki
+n94;22;6;vājpiena pulveris,iebiezināts vājpiens,iebiezinātas sūkalas,laktoze,sviests,sūkalu produkts
+n95;14;3;iebiezināts piens ar cukuru,piens,olu pulveris
+n96;21;1;pilnpiena pulveris
+n97;16;4;sausās sūkalas,sviests,no piena,olu pulveris
+n98;13;2;vistas tauki,vistas gaļas pulveris
+n99;22;2;vistas gaļa,vista
+n100;23;2;vistas gaļa,vista
+v1;10;0;
+v2;9;0;
+v3;4;0;
+v4;32;0;
+v5;4;0;
+v6;21;0;
+v7;29;0;
+v8;29;0;
+v9;16;0;
+v10;21;0;
+v11;21;0;
+v12;23;0;
+v13;16;0;
+v14;29;0;
+v15;11;0;
+v16;25;0;
+v17;25;0;
+v18;6;0;
+v19;20;0;
+v20;14;0;
+v21;14;0;
+v22;24;0;
+v23;24;0;
+v24;9;0;
+v25;9;0;
+v26;9;0;
+v27;6;0;
+v28;8;0;
+v29;8;0;
+v30;7;0;
+v31;10;0;
+v32;25;0;
+v33;4;0;
+v34;9;0;
+v35;12;0;
+v36;14;0;
+v37;10;0;
+v38;6;0;
+v39;5;0;
+v40;5;0;
+v41;8;0;
+v42;13;0;
+v43;15;0;
+v44;3;0;
+v45;3;0;
+v46;8;0;
+v47;8;0;
+v48;22;0;
+v49;11;0;
+v50;15;0;
+v51;15;0;
+v52;19;0;
+v53;9;0;
+v54;18;0;
+v55;22;0;
+v56;18;0;
+v57;3;0;
+v58;9;0;
+v59;14;0;
+v60;14;0;
+v61;24;0;
+v62;24;0;
+v63;9;0;
+v64;5;0;
+v65;4;0;
+v66;5;0;
+v67;4;0;
+v68;3;0;
+v69;23;0;
+v70;3;0;
+v71;28;0;
+v72;20;0;
+v73;15;0;
+v74;19;0;
+v75;20;0;
+v76;17;0;
+v77;9;0;
+v78;4;0;
+v79;6;0;
+v80;8;0;
+v81;8;0;
+v82;10;0;
+v83;9;0;
+v84;10;0;
+v85;11;0;
+v86;4;0;
+v87;16;0;
+v88;8;0;
+v89;8;0;
+v90;19;0;
+v91;5;0;
+v92;6;0;
+v93;17;0;
+v94;18;0;
+v95;18;0;
+v96;11;0;
+v97;15;0;
+v98;19;0;
+v99;19;0;
+v100;20;0;

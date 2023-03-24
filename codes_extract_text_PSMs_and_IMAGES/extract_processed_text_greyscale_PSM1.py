@@ -1,13 +1,8 @@
 import cv2 
 import pytesseract
 
-# get grayscale image
-def get_grayscale(image):
-    return cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-
-IMG_DIR = 'images_raw/' # directory with the original images
-IMG_DIR_AFTER = 'images_processed/GSpsm1_all/' #directory storing pre-processed images
-TXT_DIR = 'texts_processed/GSpsm1_all/' # directory storing OCR result from the pre-processed images
+IMG_DIR = 'images_processed/GS/' #directory storing pre-processed images
+TXT_DIR = 'texts_processed/GSpsm1/' # directory storing OCR result from the pre-processed images
 
 
 product_type = ["n", "v"]
@@ -17,17 +12,13 @@ for t in product_type:
 
         img_name = t + str(x)
         #import image
-        image = cv2.imread(IMG_DIR + img_name + '.jpg')
-
-        #convert image to black and white, and store in a directory
-        image2 = get_grayscale(image)
-        cv2.imwrite(IMG_DIR_AFTER + img_name + ".png", image2)
+        image = cv2.imread(IMG_DIR + img_name + '.png')
 
         #OCR configuration
         custom_config = r'--oem 3 --psm 1'
 
         #extract text from preprocesed image, and store in in a text file
-        text = pytesseract.image_to_string(image2, config=custom_config, lang='lav')
+        text = pytesseract.image_to_string(image, config=custom_config, lang='lav')
         sourceFile2 = open(TXT_DIR + img_name + ".txt", 'w', encoding='UTF-8')
         print(text, file = sourceFile2)
         sourceFile2.close()

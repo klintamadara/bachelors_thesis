@@ -1,1 +1,14 @@
 # bachelors_thesis
+
+This is the practical part of the Bachelor thesis “Image processing for evaluating ingredients list of food products” by Klinta Madara Greiliha. It aimed to create a solution that can extract an ingredient list from an image of a food label (in Latvian) and determine whether it is plant-based or if it contains animal-based ingredients. OCR engine used to extract text from images: open source Tesseract. Code is written in Python. 
+
+Abbreviations used within the repository: "BGremove" - background removal, "noise" - noise removal, "B&W" - image converted to black and white (binary), "GS" - image converted to greyscale color scheme, "+" - a combination of the techniques, "PSM" - page segmentation mode, "AB" - animal-based.
+
+The contents and the organization of this repository:
+- file "list.txt" contains animal-based ingredients against which the solution compares each ingredient detected in the food product. The list includes the most common conjugations found in ingredient lists for most common animal based products (this is an important distinction neccessary from a solution that recognizes words in English). The list is not complete and could be improved, other conjugations could be added for safety - the more the list is developed, the more comprehensive it would be, and higher accuracy could be achieved, although improving the list has diminishing returs. The sources from which the infomration on animal-based ingredients were gathered are described in the thesis paper. 
+- folder "images_raw" contains the sample of 200 images taken for the purposes of testing the solution. Each image depicts a food product label. 100 of them are plant-based or vegan (hence "v" in the title), and 100 are not plant-based (hence, "n" in the title).
+- file "text_actual_animal_ingr_check.txt" contains information for testing and validating solution's accuracy. For each of the sample product label it contains the image name, total number of ingredients present in the product, the number of animal-based ingredients present in the product, as well as a list of all animal-based ingredients in the product if there are any.
+- folder "texts_actual" contains the actual ingredient list for each of the sample products. Similarly to "text_actual_animal_ingr_check.txt", it is used for testing solution's accuracy. This information was manually collected from the sample images. In real life application, no such files would be available, and a consumer would have to trust the solution's result.
+- folder "texts_raw" contain OCR output when the input is the original sample image. 
+- folder "images_processed" contain the images after pre-processing techniques have been applied to them, and the corresponding OCR output is stored in the "texts_processed" folder. 
+- folder "codes_extract_text_PSMs_and_IMAGES"

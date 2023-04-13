@@ -64,7 +64,7 @@ def get_all_words(list):
         text = text + last_ing[t] + " "
     return text.split() 
 
-#i - 1 means 2-word ing list needed, 2 - 1-word
+
 def get_ing_list(list, i):
     if(list == []): return []
     all_words_identified = get_all_words(list)
